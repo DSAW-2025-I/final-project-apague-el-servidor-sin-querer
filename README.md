@@ -6,7 +6,7 @@
 
 Compañero: Juan José Gomez
 
-Link repositorio GitHub del backend: https://github.com/agudelotomas02/PROYECTO-BACKEND.git
-Link repositorio GitHub del frontend: https://github.com/agudelotomas02/Proyecto_FrontEnd.git
-Link vercel del backend: https://proyecto-backend-zeta.vercel.app/
-Link vercel del frontend: https://proyecto-front-end-pi.vercel.app/login
+###Link repositorio GitHub del backend: https://github.com/agudelotomas02/PROYECTO-BACKEND.git
+###Link repositorio GitHub del frontend: https://github.com/agudelotomas02/Proyecto_FrontEnd.git
+###Link vercel del backend: https://proyecto-backend-zeta.vercel.app/
+###Link vercel del frontend: https://proyecto-front-end-pi.vercel.app/login
